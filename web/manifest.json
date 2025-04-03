@@ -1,0 +1,11 @@
+{
+    "name": "joints",
+    "short_name": "joints",
+    "start_url": "https://joints.africa",
+    "display": "standalone",
+    "background_color": "#d75505",
+    "theme_color": "#d75505",
+    "description": "Your drinks at your doorstep",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
