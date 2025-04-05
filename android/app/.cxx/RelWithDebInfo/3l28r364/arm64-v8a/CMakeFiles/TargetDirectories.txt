@@ -1,0 +1,2 @@
+/home/user/Joint-User-app-and-web/android/app/.cxx/RelWithDebInfo/3l28r364/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/user/Joint-User-app-and-web/android/app/.cxx/RelWithDebInfo/3l28r364/arm64-v8a/CMakeFiles/edit_cache.dir

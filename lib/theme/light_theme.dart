@@ -20,7 +20,7 @@ ThemeData light = ThemeData(
   }),
 
   popupMenuTheme: const PopupMenuThemeData(color: Colors.white, surfaceTintColor: Colors.white),
-  dialogTheme: const DialogTheme(surfaceTintColor: Colors.white),
+  dialogTheme: const DialogThemeData(surfaceTintColor: Colors.white),
   colorScheme: ColorScheme(
     brightness: Brightness.light,
     primary: const Color(0xFFFF5555),

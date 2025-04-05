@@ -26,7 +26,7 @@
     </queries>
 
     <application
-        android:label="eFood"
+        android:label="Joints"
         android:name="${applicationName}"
         android:requestLegacyExternalStorage="true"
         android:usesCleartextTraffic="true"
@@ -34,7 +34,7 @@
         android:allowBackup="false"
         android:fullBackupOnly="false"
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="YOUR_MAP_KEY_HERE"/>
+            android:value="AIzaSyBtjhlbBV0QBG5OiNZbjA34jCXrp1pmvo4"/>
 
         <meta-data
             android:name="com.facebook.sdk.ApplicationId"

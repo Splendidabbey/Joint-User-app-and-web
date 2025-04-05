@@ -3,10 +3,10 @@ import 'package:flutter_restaurant/common/enums/app_mode_enum.dart';
 import 'package:flutter_restaurant/utill/images.dart';
 
 class AppConstants {
-  static const String appName = 'eFood';
+  static const String appName = 'Joints';
   static const String appVersion = '11.2';
   static const AppMode appMode = AppMode.release;
-  static const String baseUrl =  'YOUR_BASE_URL_HERE'; ///Flutter SDK 3.24.5
+  static const String baseUrl =  'https://diner.joints.africa'; ///Flutter SDK 3.24.5
   static const String categoryUri = '/api/v1/categories';
   static const String bannerUri = '/api/v1/banners';
   static const String latestProductUri = '/api/v1/products/latest';

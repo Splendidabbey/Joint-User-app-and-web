@@ -76,7 +76,7 @@ dependencies:
 
 
 dependency_overrides:
-  webview_flutter_android: 3.16.1
+  webview_flutter_android: ^3.16.1
 
 dev_dependencies:
   flutter_lints: ^4.0.0
