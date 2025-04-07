@@ -74,12 +74,14 @@ Future<void> main() async {
 
   if(kIsWeb) {
     await Firebase.initializeApp(options: const FirebaseOptions(
-      apiKey: "AIzaSyBCtDfdfPqxXDO6rDNlmQC1VJSHOtuyo3w",
-      authDomain: "gem-b5006.firebaseapp.com",
-      projectId: "gem-b5006",
-      storageBucket: "gem-b5006.firebasestorage.app",
-      messagingSenderId: "384321080318",
-      appId: "1:384321080318:web:64ade0c69276c34e2c0eaf"
+      apiKey: "AIzaSyCMseuZdwVM1utfyEKt4Ksx0qV8J7boNik",
+      authDomain: "joints-zar.firebaseapp.com",
+      databaseURL: "https://joints-zar-default-rtdb.firebaseio.com",
+      projectId: "joints-zar",
+      storageBucket: "joints-zar.firebasestorage.app",
+      messagingSenderId: "476825650444",
+      appId: "1:476825650444:web:c1e707831fa76c09e0b529",
+      measurementId: "G-ENVMMNTZ9R"
     ));
   }else {
     await Firebase.initializeApp();
